@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # StudyNotion Edtech Project
 =======
 # Study-Notion
